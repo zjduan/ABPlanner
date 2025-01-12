@@ -1,0 +1,6 @@
+.DS_Store
+*.sh
+.idea
+__pycache__
+results
+result
